@@ -1,1 +1,1 @@
-# Qr-code-sscanner
+# Install Required dependencies
